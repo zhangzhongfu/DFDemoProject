@@ -1,0 +1,22 @@
+PODS:
+  - BDBSDiskCache (1.0.1)
+
+DEPENDENCIES:
+  - BDBSDiskCache (from `git@git.wozaijia.com:iOS/DiskCache.git`, tag `1.0.1`)
+
+EXTERNAL SOURCES:
+  BDBSDiskCache:
+    :git: git@git.wozaijia.com:iOS/DiskCache.git
+    :tag: 1.0.1
+
+CHECKOUT OPTIONS:
+  BDBSDiskCache:
+    :git: git@git.wozaijia.com:iOS/DiskCache.git
+    :tag: 1.0.1
+
+SPEC CHECKSUMS:
+  BDBSDiskCache: 2871a81c848b06b3ff70849728e2c522ec8d05ef
+
+PODFILE CHECKSUM: 4b9b71153543d8891700fb81a98aa83c3d7cf518
+
+COCOAPODS: 1.0.1
